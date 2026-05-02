@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Workplace Discrimination",
+    "description": "Persistent gender-based discrimination in hiring, promotion, and compensation practices across industries.",
+    "tag": "Workplace"
+  },
+  {
+    "id": 2,
+    "title": "Youth Education Gaps",
+    "description": "Unequal access to quality education and career guidance for young women and men.",
+    "tag": "Youth"
+  },
+  {
+    "id": 3,
+    "title": "Policy Reform Delays",
+    "description": "Slow progress in implementing gender equality policies and legislation.",
+    "tag": "Policy"
+  },
+  {
+    "id": 4,
+    "title": "Leadership Barriers",
+    "description": "Systemic obstacles preventing women from reaching leadership positions in organizations.",
+    "tag": "Women"
+  },
+  {
+    "id": 5,
+    "title": "Mental Health Stigma",
+    "description": "Gender-specific stigmas affecting mental health support and treatment access.",
+    "tag": "Health"
+  },
+  {
+    "id": 6,
+    "title": "Economic Inequality",
+    "description": "Gender pay gaps and unequal economic opportunities affecting long-term financial security.",
+    "tag": "Workplace"
+  }
+]

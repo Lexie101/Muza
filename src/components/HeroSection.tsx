@@ -4,11 +4,8 @@ import { motion } from 'framer-motion';
 
 export default function HeroSection() {
   return (
-    <section
-      className="relative min-h-screen flex items-center justify-center px-4 bg-cover bg-center bg-no-repeat"
-      style={{ backgroundImage: "url('/muza%202.jpg')" }}
-    >
-      <div className="absolute inset-0 bg-ink/10" />
+    <section className="relative min-h-screen flex items-center justify-center px-4 bg-cream">
+      <div className="absolute inset-0" />
       <div className="relative z-10 max-w-6xl mx-auto text-center">
         <motion.h1
           initial={{ opacity: 0, y: 20 }}
